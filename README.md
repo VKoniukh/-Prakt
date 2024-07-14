@@ -1,6 +1,8 @@
 # -Prakt
 # Project Title: Example Project
 
+![Screenshot 2024-07-14 at 22 09 53](https://github.com/user-attachments/assets/31a2b4f4-46d7-4991-a47e-8ac2f45d7a37)
+
 ## Overview
 
 This is a brief overview of the Example Project. 
